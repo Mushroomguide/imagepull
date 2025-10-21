@@ -19,7 +19,7 @@ ENV/
 htmlcov/
 
 # Local data output
-species_images/
+#species_images/
 
 # macOS
 .DS_Store
